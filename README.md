@@ -11,8 +11,8 @@ In this challenge I had to recreate a QR Card using mainly HTML and CSS.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-component-challenge-IdNznymKlY)
+- Live Site URL: [GitHub Pages](https://alepedrero.github.io/qrcode/)
 
 ## My process
 To be able to complete this simple challenge, I had to write the essential mark up on HTML, and proceed to do the neccessary styles by using Bootstrap and CSS. 
